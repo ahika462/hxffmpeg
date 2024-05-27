@@ -1,0 +1,8 @@
+{
+	"name": "hxffmpeg",
+	"license": "MIT",
+	"releasenote": "",
+	"contributors": ["ahika462"],
+	"version": "1.0.0",
+	"main": "Run"
+}
